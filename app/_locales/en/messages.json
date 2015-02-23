@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "focus helper",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Makes selecting focusable elements through the mouse easier by detecting the element that is closer to the pointer.",
+    "description": "The description of the application"
+  }
+}
